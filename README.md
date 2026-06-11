@@ -21,5 +21,5 @@ e uma landing page sobre um projeto criao por mim trabalhando a responsividade n
 
 ## Autora
 
-- [@cigarraa](https://github.com/cigarraa)
+- [@LauraCirino](https://github.com/LauraCirino)
 
